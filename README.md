@@ -1,6 +1,10 @@
 # weather-app
 
 This template should help get you started developing with Vue 3 in Vite.
+This is a Vue 3-based web application.
+The app fetches weather data using the OpenWeatherMap API.
+It specifically uses the One Call API from OpenWeatherMap.
+To use the app, you need to sign up and subscribe to the One Call API to get an API key.
 
 ## Recommended IDE Setup
 
